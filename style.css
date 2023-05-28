@@ -1,0 +1,16 @@
+body{
+    margin:0px;
+    background-color: #E8F3EC;
+}
+.nav-brand{
+    display:flex;
+}
+.nav-inner{
+background-color: white;
+display:flex;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    border: white;
+}
